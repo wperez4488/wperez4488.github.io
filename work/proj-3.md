@@ -1,5 +1,7 @@
 ---
-title: Crispy Icons
+title: Music App
 ---
 
-![Crispy Icons](assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![Music App UX](assets/img/work/proj-3/music.jpg)
+![Music App UX](assets/img/work/proj-3/selection.jpg)
+![Music App UX](assets/img/work/proj-3/thumb.jpg)

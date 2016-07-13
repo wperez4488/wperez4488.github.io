@@ -1,5 +1,6 @@
 ---
-title: Fresh It Up
+title: MLB Redesign
 ---
 
-![Fresh It Up](assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![MLB](assets/img/work/proj-5/thumb.jpg)
+![MLB](assets/img/work/proj-5/majormlb.jpg)

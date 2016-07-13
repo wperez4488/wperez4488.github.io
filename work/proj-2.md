@@ -1,5 +1,6 @@
 ---
-title: City In Website Concept
+title: Bmw Mobile concept
 ---
 
-![City In](assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![Bmw Concept](assets/img/work/proj-2/thumb.jpg)
+![Bmw Concept](assets/img/work/proj-2/hand.jpg)
