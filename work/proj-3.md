@@ -1,7 +1,7 @@
 ---
-title: Music App
+title: Music App Ux Concept
 ---
 
-![Music App UX](assets/img/work/proj-3/music.jpg)
-![Music App UX](assets/img/work/proj-3/selection.jpg)
-![Music App UX](assets/img/work/proj-3/thumb.jpg)
+![Music App](assets/img/work/proj-6/img1.jpg)
+![Music App](assets/img/work/proj-6/img2.jpg)
+![Music App](assets/img/work/proj-6/thumb.jpg)

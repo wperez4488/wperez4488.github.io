@@ -1,6 +1,6 @@
 ---
-title: Bmw Mobile concept
+title: BMW User Concept
 ---
 
-![Bmw Concept](assets/img/work/proj-2/thumb.jpg)
-![Bmw Concept](assets/img/work/proj-2/hand.jpg)
+![BMW](assets/img/work/proj-6/img1.jpg)
+![BMW](assets/img/work/proj-6/thumb.jpg)
