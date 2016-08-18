@@ -62,10 +62,10 @@ projects:
 - {name: BMW User concept, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Music App UX concept, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: UX Design Concepts, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: MLB Website Redesign, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Web Store UX Mock up, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+# - {name: MLB Website Redesign, folder: 'proj-5', file: 'work/proj-5.html'}
+# - {name: Web Store UX Mock up, folder: 'proj-6', file: 'work/proj-6.html'}
+# - {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+# - {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 
